@@ -21,12 +21,12 @@ import java.util.stream.Collectors;
  * @author bing  @create 2021/1/16-下午4:25
  */
 @RestController
-@RequestMapping("/system/basic/permission")
+@RequestMapping("/system/basic/permiss")
 public class PermissionController {
 
     @Autowired
     private RoleService roleService;
-
+//1231231222
     @Autowired
     private MenuService menuService;
 
